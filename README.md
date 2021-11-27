@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drobotyuk02
 - 👀 I’m interested in employment
-- 🌱 I’m currently learning C++, Github, Git, OpenMP
+- 🌱 I’m currently learning Java, Git, OpenMP, MPI
 - 📫 How to reach me 
         
         mail: drobotyuk02@gmail.com
